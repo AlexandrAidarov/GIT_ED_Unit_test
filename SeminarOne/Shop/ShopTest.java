@@ -1,4 +1,4 @@
-package seminars.first.Shop;
+package SeminarOne.Shop;
 
 public class ShopTest {
 

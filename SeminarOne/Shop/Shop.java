@@ -1,4 +1,4 @@
-package seminars.first.Shop;
+package SeminarOne.Shop;
 
 import java.util.Comparator;
 import java.util.List;

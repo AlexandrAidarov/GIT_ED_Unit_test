@@ -1,6 +1,6 @@
 package SeminarOne.Calculator;
 
-import seminars.first.Calculator.Calculator;
+import SeminarOne.Calculator.Calculator;
 
 import static org.assertj.core.api.Assertions.*;
 
