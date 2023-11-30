@@ -6,7 +6,7 @@ import HWSeminarSix.src.view.Console;
 
 public class Main {
     public static void main(String[] args) {
-
-        Console.run();
+        Console console = new Console();
+        console.run();
     }
 }

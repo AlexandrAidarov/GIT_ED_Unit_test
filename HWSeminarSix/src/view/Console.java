@@ -17,7 +17,6 @@ public class Console {
         this.listComperison = listComperison;
     }
 
-    //@Override
     public void run() {
         System.out.println("Сравнение двух списков чисел.");
         List<Integer> firstList = new ArrayList<>(Arrays.asList(3, 5, 6));

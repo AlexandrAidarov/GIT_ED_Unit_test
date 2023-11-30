@@ -16,9 +16,9 @@ public class ListComperison {
         if (firstListAverage > secondListAverage){
             return 1;
         }else if (firstListAverage < secondListAverage){
-            return 2;
+            return -1;
         }else {
-            return 3;
+            return 0;
         }
     }
 }
